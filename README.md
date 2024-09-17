@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Angel Rodriguez!
 
-![Anime Banner](https://www.canva.com/design/DAGQ-EifrB8/VeWxv9stHCuhf8E70uz83A/view?utm_content=DAGQ-EifrB8&utm_campaign=designshare&utm_medium=link&utm_source=editor) <!-- Replace this link with one to an anime-themed image -->
+![Anime Banner](https://cetkinal-my.sharepoint.com/personal/arodriguez-2019620_kinal_edu_gt/Documents/Black%20Technology%20LinkedIn%20Banner_png.png) <!-- Replace this link with one to an anime-themed image -->
 
 ### 🌸 About Me:
 - 💻 **Full Stack Developer** | React & Node.js lover 💙
