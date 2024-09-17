@@ -1,18 +1,13 @@
 
 ![Anime Banner](https://i.imgur.com/EOdnwEX.png) <!-- Replace this link with one to an anime-themed image -->
 
-### 🌸 About Me:
-- 💻 **Full Stack Developer** | React & Node.js lover 💙
-- 🎨 Passionate about **UI/UX design** and creating **interactive experiences**.
-- 📚 Always learning and exploring new **web technologies**.
-- 🌟 Anime and Japanese culture enthusiast 🎌.
 
+## 🌟 Desarrollador Fullstack con Pasión por el Frontend 🌟
+
+### 🌸 About Me:
+Welcome to my GitHub profile! I'm a fullstack developer with a passion for frontend development. I love creating engaging and functional user interfaces, and I have experience on both client and server side. I am always learning and exploring new technologies to improve my skills and contribute to exciting projects.
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,js,ts,sass,mongodb,postman,redux,express,figma,github,java,mysql,netlify,nodejs,npm,react,tailwind,vercel,vite,vscode,angular,powershell" />
