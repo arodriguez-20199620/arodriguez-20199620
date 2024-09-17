@@ -1,4 +1,3 @@
-# 👋 Hello, I'm Angel Rodriguez!
 
 ![Anime Banner](https://i.imgur.com/EOdnwEX.png) <!-- Replace this link with one to an anime-themed image -->
 
