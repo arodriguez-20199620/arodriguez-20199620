@@ -17,6 +17,14 @@
 </p>
 
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,js,ts,sass,mongodb,postman,redux,express,figma,github,git,java,mysql,netlify,nodejs,npm,react,tailwind,vercel,vite,vscode,angular,powershell" />
+  </a>
+</p>
+
+
 ### ⚡ GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arodriguez-20199620&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
