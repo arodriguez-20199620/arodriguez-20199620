@@ -10,11 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,figma,github,git,html,java,js,mongodb,mysql,netlify,nodejs,npm,postman,react,redux,sass,tailwind,ts,vercel,vite,vscode,angular,powershell" />
-  </a>
-</p>
 
 
 
