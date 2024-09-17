@@ -35,17 +35,10 @@
 - [🎴 Project 1](https://github.com/yourusername/project1) - A kanban-style task management app.
 - [💻 Project 2](https://github.com/yourusername/project2) - A dark-themed, anime-inspired interactive website.
 
-### 📫 How to Reach Me:
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 🌐 [Portfolio](https://yourportfolio.com)
+## 🌍 Contact
 
----
+- **LinkedIn:** [Tu LinkedIn](enlace-a-tu-linkedin)
+- **Twitter:** [Tu Twitter](enlace-a-tu-twitter)
+- **Portafolio:** [Tu Portafolio](enlace-a-tu-portafolio)
 
-This version adds:
 
-- **GitHub Stats**: Show off your commits and languages with the `github-readme-stats` plugin.
-- **Badges**: Dynamic and visually appealing technology icons.
-- **Anime Banner**: Keep the theme anime-centric with an eye-catching image.
-
-You can personalize this further with other animations, like snake contributions or activity graphs. Just make sure to replace `yourusername` with your actual GitHub username!
