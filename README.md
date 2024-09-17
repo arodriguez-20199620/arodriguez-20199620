@@ -6,6 +6,8 @@
 - 🎨 Passionate about **UI/UX design** and creating **interactive experiences**.
 - 📚 Always learning and exploring new **web technologies**.
 - 🌟 Anime and Japanese culture enthusiast 🎌.
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -46,7 +48,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a> 
+      </p>
 
 
 ### ⚡ GitHub Stats:
