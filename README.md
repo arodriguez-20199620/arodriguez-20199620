@@ -36,9 +36,19 @@
 - [💻 Project 2](https://github.com/yourusername/project2) - A dark-themed, anime-inspired interactive website.
 
 ## 🌍 Contact
-
-- **LinkedIn:** [Tu LinkedIn](enlace-a-tu-linkedin)
-- **Twitter:** [Tu Twitter](enlace-a-tu-twitter)
-- **Portafolio:** [Tu Portafolio](enlace-a-tu-portafolio)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
 
 
