@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png" alt="angular" width="40" height="40" />
+    <img src="https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png" alt="angular"  height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
