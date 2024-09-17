@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Angel Rodriguez!
 
-![Anime Banner](https://example.com/anime-banner) <!-- Replace this link with one to an anime-themed image -->
+![Anime Banner](https://marketplace.canva.com/EAENvtZ8gO0/2/0/1600w/canva-black-technology-linkedin-banner-uf4pgeNZrW8.jpg) <!-- Replace this link with one to an anime-themed image -->
 
 ### 🌸 About Me:
 - 💻 **Full Stack Developer** | React & Node.js lover 💙
