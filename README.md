@@ -1,9 +1,5 @@
 
 ![Anime Banner](https://i.imgur.com/EOdnwEX.png) <!-- Replace this link with one to an anime-themed image -->
-## 🌟 Desarrollador Fullstack con Pasión por el Frontend 🌟
-
-Welcome to my GitHub profile! I'm a fullstack developer with a passion for frontend development. I love creating engaging and functional user interfaces, and I have experience on both client and server side. I am always learning and exploring new technologies to improve my skills and contribute to exciting projects.
-
 
 ### 🌸 About Me:
 - 💻 **Full Stack Developer** | React & Node.js lover 💙
@@ -11,31 +7,18 @@ Welcome to my GitHub profile! I'm a fullstack developer with a passion for front
 - 📚 Always learning and exploring new **web technologies**.
 - 🌟 Anime and Japanese culture enthusiast 🎌.
 
-## 🔧 Tecnologías y Herramientas
 
-### **Frontend:**
-- **Lenguajes y Herramientas:**
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,sass,bootstrap,figma" />
-    </a>
-  </p>
+<h3 align="left">Languages and Tools:</h3>
 
-### **Backend:**
-- **Lenguajes y Herramientas:**
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,postgresql" />
-    </a>
-  </p>
-  
-### **Otros:**
-- **Herramientas y Tecnologías:**
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,npm,docker,vercel,netlify,vscode,powershell,postman,redux" />
-    </a>
-  </p>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,js,ts,sass,mongodb,postman,redux,express,figma,github,java,mysql,netlify,nodejs,npm,react,tailwind,vercel,vite,vscode,angular,powershell" />
+  </a>
+</p>
+
 
 ### ⚡ GitHub Stats:
 <p align="center">
