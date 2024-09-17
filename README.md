@@ -2,7 +2,7 @@
 ![Anime Banner](https://i.imgur.com/EOdnwEX.png) <!-- Replace this link with one to an anime-themed image -->
 
 
-## 🌟 Desarrollador Fullstack con Pasión por el Frontend 🌟
+## 🌟 Fullstack Developer with Passion for Frontend 🌟
 
 ### 🌸 About Me:
 Welcome to my GitHub profile! I'm a fullstack developer with a passion for frontend development. I love creating engaging and functional user interfaces, and I have experience on both client and server side. I am always learning and exploring new technologies to improve my skills and contribute to exciting projects.
