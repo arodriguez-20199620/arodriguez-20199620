@@ -26,10 +26,6 @@ Welcome to my GitHub profile! I'm a fullstack developer with a passion for front
 - ⛩️ Love action-packed **shōnen** anime and stories of perseverance.
 - 🎧 I enjoy coding while listening to **anime soundtracks**.
 
-### 🔥 Featured Projects:
-- [🎴 Project 1](https://github.com/yourusername/project1) - A kanban-style task management app.
-- [💻 Project 2](https://github.com/yourusername/project2) - A dark-themed, anime-inspired interactive website.
-
 ## 🌍 Contact
 <p align="center">
   <a href="https://skillicons.dev">
