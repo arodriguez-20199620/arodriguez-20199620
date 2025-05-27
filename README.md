@@ -5,14 +5,14 @@
 
 ---
 
-## 🌟 Fullstack Developer with Passion for Frontend 🌟
+## 🌟 Fullstack Developer with a Passion for Frontend 🌟
 
-### 🌸 Sobre mí:
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador fullstack con pasión por el frontend. Me encanta crear interfaces atractivas y funcionales, y tengo experiencia tanto del lado del cliente como del servidor. Siempre estoy aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades y aportar a proyectos emocionantes.
+### 🌸 About Me:
+Welcome to my GitHub profile! I'm a fullstack developer with a strong passion for frontend development. I love creating beautiful and functional user interfaces, and I have experience on both the client and server sides. I'm always learning and exploring new technologies to improve my skills and contribute to exciting projects.
 
 ---
 
-## 🌍 Contacto
+## 🌍 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,27 +32,27 @@
 
 ---
 
-## 🏆 Proyectos Destacados
+## 🏆 Featured Projects
 
-- [📌 Portafolio Web](https://personal-website-la85.vercel.app/#/projects)  
-  _Aplicación moderna con React, TailwindCSS y Vite. Diseño responsivo y animaciones suaves._
+- [📌 Web Portfolio](https://personal-website-la85.vercel.app/#/projects)  
+  _A modern app built with React, TailwindCSS, and Vite. Responsive design and smooth animations._
 
-- [💬 LinguaLink]([https://github.com/arodriguez-20199620/ai-chatbot](https://lingualink-app.vercel.app/#/))  
-  _Foro estudiantil, interfaz en React y backend en Node.js y expressjs._
+- [💬 LinguaLink](https://lingualink-app.vercel.app/#/)  
+  _Student forum with a React interface and Node.js/Express.js backend._
 
-- [❗ Neighbor Alert]([https://github.com/arodriguez-20199620/weather-app](https://react-neighbor-alert-deploy.vercel.app/))  
-  _plataforma comunitaria diseñada para facilitar la creación y gestión de reportes vecinales._
-
----
-
-## 📚 Actualmente Aprendiendo
-
-- Kotlin
-- Arquitectura limpia en Rect
+- [❗ Neighbor Alert](https://react-neighbor-alert-deploy.vercel.app/)  
+  _A community platform designed to facilitate the creation and management of neighborhood reports._
 
 ---
 
-## ⚡ Estadísticas de GitHub
+## 📚 Currently Learning
+
+- Kotlin  
+- Clean Architecture in React
+
+---
+
+## ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arodriguez-20199620&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -67,5 +67,5 @@
 
 ## 📊 Badges
 
-![Profile views](https://komarev.com/ghpvc/?username=arodriguez-20199620&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/arodriguez-20199620?label=Seguidores&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=arodriguez-20199620&color=blue&style=flat-square)  
+![GitHub followers](https://img.shields.io/github/followers/arodriguez-20199620?label=Followers&style=social)
