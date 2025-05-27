@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
-    <img src="https://www.linkedin.com/in/angel-rodriguez-4bb693329/" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
